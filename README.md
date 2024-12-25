@@ -18,8 +18,8 @@ Sigue estos pasos para instalar y configurar el proyecto:
 
 1. **Clona el repositorio**:
 ```bash
-   git clone https://github.com/Karina1014/Microservices-Flask-SQL-Supabase.git)
-   cd flask-supabase-microservices
+   git clone https://github.com/Karina1014/Microservices-Flask-SQL-Supabase--DeleteOwner.git
+   cd Microservices-Flask-SQL-Supabase--DeleteOwner
  ```
 2.**Crea un entorno virtual (opcional, pero recomendado)**:
  ```bash
@@ -42,3 +42,12 @@ Sigue estos pasos para instalar y configurar el proyecto:
  ```bash
  Flask run
  ```
+
+## Resultados
+![image](https://github.com/user-attachments/assets/efd11049-ae66-4a74-9367-136fc269962b)
+
+## Supabase
+![image](https://github.com/user-attachments/assets/d79e7ca0-3b2d-41ee-941f-bd9e52d945e9)
+
+
+
