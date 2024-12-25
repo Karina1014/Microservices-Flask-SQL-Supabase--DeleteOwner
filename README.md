@@ -1,6 +1,6 @@
-# 🚀 Proyecto Flask con Supabase - Registro de Propietarios
+# 🚀 Proyecto Flask con Supabase - Eliminar de Propietarios por id_card
 
-Este proyecto crea un microservicio utilizando **Flask** para registrar información en una base de datos en **Supabase**. La aplicación permite insertar datos de propietarios, incluyendo cédula de identidad, nombre, apellido, teléfono y correo electrónico.
+Este proyecto crea un microservicio utilizando **Flask** para eliminar información en una base de datos en **Supabase**. La aplicación permite eliminar datos de propietarios, incluyendo cédula de identidad, nombre, apellido, teléfono y correo electrónico.
 
 ## 🛠 Requisitos
 
